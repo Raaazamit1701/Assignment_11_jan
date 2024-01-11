@@ -70,7 +70,7 @@ body{
     height: 60vh;
     width: 30vw;
     margin: 20px;
-     background-image: url(https://static7.depositphotos.com/1010826/675/v/450/depositphotos_6751521-stock-illustration-tower-cranes.jpg); 
+     /* background-image: url(https://static7.depositphotos.com/1010826/675/v/450/depositphotos_6751521-stock-illustration-tower-cranes.jpg);  */
      background-size: cover;
      background-repeat: no-repeat;
 
@@ -109,7 +109,7 @@ body{
     width: 40vw;
     margin: 20px;
     margin-right: 80px;
-    background-image: url(https://media.istockphoto.com/id/1202296779/photo/black-and-white-photo-structure-of-steel-for-building-construction.jpg?s=1024x1024&w=is&k=20&c=zB6oytRiAmzlr-gQ1Qj0GTC7YOjo6fd5jeiW8Iuz78M=); 
+    /* background-image: url(https://media.istockphoto.com/id/1202296779/photo/black-and-white-photo-structure-of-steel-for-building-construction.jpg?s=1024x1024&w=is&k=20&c=zB6oytRiAmzlr-gQ1Qj0GTC7YOjo6fd5jeiW8Iuz78M=);  */
     background-size: cover;
    background-repeat: no-repeat;
 }
